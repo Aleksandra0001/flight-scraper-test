@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "flight-scraper-test"
+version = "0.1.0"
+description = ""
+authors = ["Aleksandra0001 <104300297+Aleksandra0001@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
